@@ -1,0 +1,79 @@
+---
+title: "SSDS at JSM 2020"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+    css: "style.css"
+  pdf_document:
+    toc: no
+  word_document:
+    toc: no
+    toc_depth: '3'
+---
+\fontsize{12}{12}
+\fontseries{m}
+\selectfont
+
+\setlength{\paperwidth}{8.5in}
+\setlength{\paperheight}{11in}
+\setlength{\voffset}{-0.5in}
+\setlength{\textheight}{10.5in}
+\setlength{\textwidth}{7.5in}
+\pagenumbering{gobble}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+JSM 2020 has moved fully online. There are still many cool sessions and talks relevant to the Section on Statistics and Data Science Education. To attend a session, you must be registered for the conference (this costs money, and can be done [here](https://ww2.amstat.org/meetings/jsm/2020/registration.cfm)). In addition to the formal sessions, we will once again be hosting **Birds of a Feather (BoF)** discussions. BoFs are a great way to get to know other conference attendees in a casual manner. BoF sessions will be open to anyone, regardless of conference registration, and they are **free**. But, they require you to sign up through our Google Form in order to get the information.
+
+
+
+# Sesssions
+
+(Paid) conference registration required. 
+
+(all times in ET) | **Monday, Aug 3, 2020** |
+ |--------|-------------------------------------------|
+ | 10 am - 2 pm | Teaching the First Course in Statistics — Contributed Papers <br> Wei Wei, Marian Frazier, Ella Burnham, Kristin Harvey |
+| &nbsp; | **Tuesday, Aug 4, 2020** |
+| 10 - 11:50 am | Modernizing the Mathematical Statistics Course — Invited Papers <br> Randall Pruim, Dennis Sun, Michael Lavine, Jennifer Green, Erin Blankenship |
+| 10 am - 2 pm | Contributed Poster Presentations: Section on Statistics and Data Science Education — Contributed Poster Presentations <br> Phillip Burckhardt, Xiaoyi Yang, Lisa Kay, Shurong Fang, Nora Galambos, Lan Nygren, Sheila Brown | 
+| 1 - 2:50 pm | Implementing Version Control with Git as a Learning Objective in Statistics Courses — Topic Contributed Panel <br> Matthew Beckman, Hunter Glanz, Adam Sullivan | 
+|&nbsp; |  **Wednesday, Aug 5, 2020** |
+|  10 - 11:50 am | Communicating Statistical Concepts in the Classroom, to the Public, and Beyond — Invited Papers <br> Lucy D'Agostino McGowan, Stephanie Hicks, Amelia McNamara, Roger Peng | 
+| 10 - 11:50 am | Statistics Education Research: Opportunities for Dissemination — Topic Contributed Panel <br> Matthew Hayat, Robert Gould, William Notz, Robert Oster, Jennider Kaplan, Manfred Borovcnick | 
+| 10 am - 2 pm |  New Concepts and Activities for Teaching Statistics — Contributed Papers <br> Adam Loy, Jenny Lye, Victoria Woodard, Scott Toney, Robin Lock | 
+| 1 - 2:50 pm | Teaching with Data for the Public Good — Invited Papers <br> Kelly Bodwin, Maria Tackett, Jo Hardin | 
+<date> &nbsp; | **Thursday, Aug 6, 2020** </date>
+| 10 - 11:50 am | Multivariable Thinking Across the Curriculum — Topic Contributed Papers <br> Beth Chance, Nathan Tintle, Karen McGaughey, Anny-Claude Joseph | 
+| 10 am - 2 pm | Learning Beyond the Introductory Statistics Classroom — Contributed Papers <br> Shonda Kupier, Yuting Tian, Lisa Wruck, Jennifer Broatch, Brain Gaines, Brian Kim, John McKenzie | 
+| 12 - 1 pm |  Roundtable Discussion: Supporting Underrepresented Minority and First Generation Students in STEM <br> Shurong Fang | 
+| 1 - 2:50 pm | Teaching Focused Careers in Colleges, Universities, and Industry — Invited Panel <br> Mine Dogucu, Garrett Grolemund, Rebecca Nugent, Katie St Clair | 
+| 1 - 2:50 pm | Balderdash, Codswallop, and Malarkey — Topic Contributed Panel <br> William Cipolli, Diane Evans, David Corliss, Jonathan Auerbach, Rochelle Tractenberg, Suzanne Thornton | 
+
+
+
+## Birds of a Feather
+
+**What:** In lieu of/in addition to the standard JSM roundtables, the Section on Statistics and Data Science Education is sponsoring Birds of a Feather (BoF) meetups at the 2020 conference. A BoF is a casual meeting of a group of people to discuss a topic of common interest. Like a roundtable, there will be a leader, but everyone is welcome to participate in the discussion. Unlike a roundtable, the BoFs do not cost money. 
+
+**Who:** Anyone who is interested! You don't have to be a Section member to attend. 
+
+**When:** See below for meeting start times. Typically, BoFs will be an hour long, but of course you can continue the conversation if you want to!
+
+**Where:** Online! Links will be provided to registered attendees. Registration is free. 
+
+<!-- (A one-page printable version of this schedule is available [as a PDF](https://ameliamn.github.io/JSM-BoF/BoF_toprint.pdf).) -->
+
+(all times in ET) | **Sunday, July 26, 2020** |
+ |--------|-------------------------------------------|
+1 - 2 pm | Using Educational Fun Items To Increase Student Learning and Engagement <br> Larry Lesser and Dennis Pearl |
+2 - 3 pm | Addressing the 'p-value controversy' in the classroom <br> Laura Le and Steve Foti |
+|&nbsp; |  **Monday, July 27, 2020** |
+12 - 1 pm | Integrating ethics training into any quantitative course <br> Rochelle Tractenberg |
+1 - 2 pm | ASA Section on Statistics and Data Science Education Mentoring Program <br> Presented by: Jennifer Green, Jennifer Broatch, Nicole Dalzell, Michael Jiroutek, April Kerby, David Rockoff, & Jennifer Ward | 
+1 - 2 pm | What Will Statistical Education Look Like over the Next Decade? <br> Brian Sloboda and Stan Pogrow |
+2 - 3 pm | Integrating Experiential Learning into Data Analytics Education <br> Lan Nygren
