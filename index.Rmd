@@ -31,7 +31,7 @@ JSM 2020 has moved fully online. There are still many cool sessions and talks re
 
 
 
-# Sesssions
+# Sessions
 
 (Paid) conference registration required. 
 
@@ -54,7 +54,9 @@ JSM 2020 has moved fully online. There are still many cool sessions and talks re
 | 1 - 2:50 pm | Teaching Focused Careers in Colleges, Universities, and Industry — Invited Panel <br> Mine Dogucu, Garrett Grolemund, Rebecca Nugent, Katie St Clair | 
 | 1 - 2:50 pm | Balderdash, Codswallop, and Malarkey — Topic Contributed Panel <br> William Cipolli, Diane Evans, David Corliss, Jonathan Auerbach, Rochelle Tractenberg, Suzanne Thornton | 
 
+Search in the [online program](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/index.cfm) to find more information about these sessions, and find others co-sponsored by the section. 
 
+[Tip: go to Advanced Search and Search by Sponsor. Pick Section on Statistics and Data Science Education, and leave the checkbox for Main Sponsor Only unchecked to see all sponsored and co-sponsored sesions.]
 
 ## Birds of a Feather
 
