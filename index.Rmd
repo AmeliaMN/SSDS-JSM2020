@@ -27,7 +27,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-JSM 2020 has moved fully online. There are still many cool sessions and talks relevant to the Section on Statistics and Data Science Education. To attend a session, you must be registered for the conference (this costs money, and can be done [here](https://ww2.amstat.org/meetings/jsm/2020/registration.cfm)). In addition to the formal sessions, we will once again be hosting **Birds of a Feather (BoF)** discussions. BoFs are a great way to get to know other conference attendees in a casual manner. BoF sessions will be open to anyone, regardless of conference registration, and they are **free**. But, they require you to sign up through our Google Form in order to get the information.
+JSM 2020 has moved fully online. There are still many cool sessions and talks relevant to the Section on Statistics and Data Science Education. To attend a session, you must be registered for the conference (this costs money, and can be done [here](https://ww2.amstat.org/meetings/jsm/2020/registration.cfm)). In addition to the formal sessions, we will once again be hosting **Birds of a Feather (BoF)** discussions. BoFs are a great way to get to know other conference attendees in a casual manner. BoF sessions will be open to anyone, regardless of conference registration, and they are **free**. But, they require you to [sign up through our Google Form](https://docs.google.com/forms/d/e/1FAIpQLScDwSm5CAU5lbSKmRTDjAtR_LgLdx5NcWBjmii7nFvZ2UoZrw/viewform) in order to get the information.
 
 
 
@@ -64,7 +64,7 @@ JSM 2020 has moved fully online. There are still many cool sessions and talks re
 
 **When:** See below for meeting start times. Typically, BoFs will be an hour long, but of course you can continue the conversation if you want to!
 
-**Where:** Online! Links will be provided to registered attendees. Registration is free. 
+**Where:** Online! Links will be provided to registered attendees. [Registration is free.](https://docs.google.com/forms/d/e/1FAIpQLScDwSm5CAU5lbSKmRTDjAtR_LgLdx5NcWBjmii7nFvZ2UoZrw/viewform)
 
 <!-- (A one-page printable version of this schedule is available [as a PDF](https://ameliamn.github.io/JSM-BoF/BoF_toprint.pdf).) -->
 
@@ -77,3 +77,7 @@ JSM 2020 has moved fully online. There are still many cool sessions and talks re
 1 - 2 pm | ASA Section on Statistics and Data Science Education Mentoring Program <br> Presented by: Jennifer Green, Jennifer Broatch, Nicole Dalzell, Michael Jiroutek, April Kerby, David Rockoff, & Jennifer Ward | 
 1 - 2 pm | What Will Statistical Education Look Like over the Next Decade? <br> Brian Sloboda and Stan Pogrow |
 2 - 3 pm | Integrating Experiential Learning into Data Analytics Education <br> Lan Nygren
+
+## Business Meeting
+
+The SSDS Business Meeting will be held from 5-6 pm (Eastern Time) on Zoom. All section members are welcome. Details to follow. 
